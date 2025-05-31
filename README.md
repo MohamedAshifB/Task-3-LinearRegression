@@ -64,6 +64,3 @@ To build a regression model that predicts housing prices based on multiple featu
 - Learned how to evaluate regression models using standard metrics.
 - Visualized and interpreted model coefficients and performance.
 
-
-## 🔗 Submission
-This project is submitted as part of the internship program. For task submission, use the official [Google Form Link](https://forms.gle/8Gm83s53KbyXs3Ne9).
